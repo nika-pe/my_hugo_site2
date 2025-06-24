@@ -1,1 +1,1 @@
-# my_hugo_site2
+# my_hugo
